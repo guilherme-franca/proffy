@@ -1,4 +1,4 @@
-##Proffy
+# Proffy
 
 Projeto desenvolvido durante a semana Next Level Week 2 realizado pela Rocketseat .<br />
 100% Online.
