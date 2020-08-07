@@ -5,19 +5,29 @@ Projeto desenvolvido durante a semana Next Level Week 2 realizado pela Rocketsea
 
 ### Web
 
-Contém o ReactJS
+Contém o ReactJS <br />
 
-Para rodar o projecto: 
-`yarn start`
+Necessário para rodar o projeto: `yarn install` <br />
+Rodar o projecto: `yarn start`
 
 ### Server
 
-Contém o Node
+Contém o Node <br />
+
+Necessário para rodar o projeto: `yarn install` <br />
+Rodar o projeto: `yarn start`
+
+### Mobile
+
+Contém o React Native <br />
+
+Necessário para rodar o projeto: `yarn install` <br />
+Rodar o projeto: `yarn start`
 
 
 ### Tecnologias
 
-**Para gerenciar os projetos estamos usando o yarn**
+Para gerenciar os projetos estamos usando o **yarn**
 
 - ReactJs
 - Node
